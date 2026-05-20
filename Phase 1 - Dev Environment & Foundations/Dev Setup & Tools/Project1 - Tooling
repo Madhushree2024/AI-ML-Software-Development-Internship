@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+
+print(f "Hello {name},")
+
+print("Learned development setup and basic tools including VS Code, terminal commands, Git & GitHub workflow, Python virtual environments, pip, and Jupyter Notebook basics.")
+
